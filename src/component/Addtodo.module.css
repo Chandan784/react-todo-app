@@ -1,0 +1,15 @@
+.addTodo{
+       
+    display: flex;
+    justify-content: space-around;
+    width: 500px;
+}
+
+.addTodo input{
+
+   width: 200px;
+   padding: 10px;
+border-radius: 4px;
+margin-right: 10px;
+font-size: 24px;
+}
